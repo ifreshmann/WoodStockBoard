@@ -1,0 +1,78 @@
+{
+    "status": "success",
+    "status_code": 200,
+    "data": [
+        {
+            "ch_id": 71,
+            "course_id": 2,
+            "ch_title": "ตอนที่ 1  เตรียมพร้อมและทำความรู้จักกับ CSS",
+            "ch_dateadd": "2014-12-28",
+            "ch_timetotal": "8:56",
+            "ch_view": 5229,
+            "ch_url": "UXbSdRcNRus"
+        },
+        {
+            "ch_id": 72,
+            "course_id": 2,
+            "ch_title": "ตอนที่ 2.1 การใช้งาน CSS พื้นฐาน: รูปแบบการใช้งาน CSS ",
+            "ch_dateadd": "2014-12-28",
+            "ch_timetotal": "9:58",
+            "ch_view": 3295,
+            "ch_url": "4SrsNxrk7Lg"
+        },
+        {
+            "ch_id": 73,
+            "course_id": 2,
+            "ch_title": "ตอนที่ 2.2 การใช้งาน CSS พื้นฐาน: Syntax และ Selectors part1",
+            "ch_dateadd": "2014-12-28",
+            "ch_timetotal": "20:11",
+            "ch_view": 2926,
+            "ch_url": "fohzFygZ_Mw"
+        },
+        {
+            "ch_id": 74,
+            "course_id": 2,
+            "ch_title": "ตอนที่ 2.3 การใช้งาน CSS พื้นฐาน: ทำความรู้จักกับ Syntax และ Selectors part 2 ",
+            "ch_dateadd": "2015-01-10",
+            "ch_timetotal": "15:44",
+            "ch_view": 2196,
+            "ch_url": "kwHVtdzcLok"
+        },
+        {
+            "ch_id": 75,
+            "course_id": 2,
+            "ch_title": "ตอนที่ 3 การกำหนดรูปแบบต่างๆให้กับข้อความ (Text) และ Web Fonts ",
+            "ch_dateadd": "2015-01-25",
+            "ch_timetotal": "26:25",
+            "ch_view": 2189,
+            "ch_url": "i68VQQt535A"
+        },
+        {
+            "ch_id": 76,
+            "course_id": 2,
+            "ch_title": "ตอนที่ 4 การกำหนดรูปแบบต่างๆให้กับรูปภาพ (Images)",
+            "ch_dateadd": "2015-01-25",
+            "ch_timetotal": "11:13",
+            "ch_view": 1992,
+            "ch_url": "Z5H7icXytlc"
+        },
+        {
+            "ch_id": 127,
+            "course_id": 2,
+            "ch_title": "ตอนที่ 5 การจัดรูปแบบให้กับ Lists และ แนะนำ Navigation Menu",
+            "ch_dateadd": "2017-01-29",
+            "ch_timetotal": "19:02",
+            "ch_view": 2344,
+            "ch_url": "al4SaHskj10"
+        },
+        {
+            "ch_id": 128,
+            "course_id": 2,
+            "ch_title": "ตอนที่ 6 การจัดรูปแบบตาราง และข้อมูล",
+            "ch_dateadd": "2017-01-29",
+            "ch_timetotal": "13:43",
+            "ch_view": 1963,
+            "ch_url": "u5bNNdZv_K4"
+        }
+    ]
+}
